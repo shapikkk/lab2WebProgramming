@@ -1,0 +1,44 @@
+body
+{
+    background-color: Lime;
+    height: 100vh;
+}
+
+header
+{
+    width: 100%;
+    height: 20vh;
+    background-color: #fff;
+}
+
+nav
+{
+    width: 30%;
+    height: 50px;
+    background-color: rebeccapurple;
+    margin: 0 auto;
+}
+
+div
+{
+    width: 100%;
+    height: 60vh;
+    background-color: aqua;
+}
+
+aside
+{
+    width: 30%;
+    height: 60vh;
+    background-color: blue;
+    float: left;
+    text-align: center;
+}
+
+main
+{
+    width: 70%;
+    height: 60vh;
+    background-color: #b825ac;
+    float: right;
+}
